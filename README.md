@@ -4,7 +4,7 @@ Este repositório reúne projetos acadêmicos e exercícios práticos desenvolvi
 
 ## 📂 Índice de Projetos
 
-| Projeto | Descrição | Tecnologias |
+| Projeto | Descrição | Linguagem |
 | :--- | :--- | :--- |
 | **[Sistema de Biblioteca](./Sistema-Biblioteca)** | CRUD completo para gerenciamento de livros com validação de ISBN e ordenação (Bubble Sort). | C++ |
 | **[Gestão de Vendas](./Sistema-Gestao-Vendas)** | PDV com controle de estoque, uso de **Structs** complexas e algoritmos de **Busca Recursiva**. | C++ |
